@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23217323/README.md)
-https://github.com/VadimLS228
+https://github.com/VadimLS228/posmotri-v-okno-ad
 
 ### Скриншот
 
